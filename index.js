@@ -36,6 +36,4 @@ let server = http.createServer((req, res) => {
     }
 });
 
-server.listen(8080, 'module3project-production-c55c.up.railway.app', () => {
-    console.log('Server is running')
-})
+server.listen(8080)
