@@ -1,6 +1,23 @@
 {
+  "name": "duanmodule3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "npm start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vulinh1704/Module3Project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vulinh1704/Module3Project/issues"
+  },
+  "homepage": "https://github.com/vulinh1704/Module3Project#readme",
   "dependencies": {
-    "dotenv": "^16.0.3",
     "mysql2": "^3.2.0"
   }
 }
